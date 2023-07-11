@@ -13,7 +13,6 @@ export default function ShoppingCart() {
     seller: { nickname: string };
   };
 
-
   return(
     <div className="w-full bg-gray-100">
       <div className="relative h-45vh">
